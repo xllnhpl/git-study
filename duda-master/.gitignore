@@ -1,0 +1,10 @@
+*.o
+*.d
+*.dpkg
+*.so
+*~
+Makefile
+docs/html
+build/
+include/duda/duda_version.h
+include/duda/duda_info.h

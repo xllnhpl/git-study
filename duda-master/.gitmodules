@@ -1,0 +1,3 @@
+[submodule "deps/monkey"]
+	path = deps/monkey
+	url = git@github.com:monkey/monkey
